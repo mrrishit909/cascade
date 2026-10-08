@@ -1,0 +1,22 @@
+{
+ "die-block.glb": {
+  "tris": 24,
+  "bytes": 3628,
+  "materials": [
+   "Copper",
+   "Silicon"
+  ],
+  "missing": [],
+  "orphans": []
+ },
+ "lattice-cell.glb": {
+  "tris": 188,
+  "bytes": 8628,
+  "materials": [
+   "Iridescent",
+   "WaferViolet"
+  ],
+  "missing": [],
+  "orphans": []
+ }
+}
